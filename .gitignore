@@ -1,0 +1,9 @@
+# PyCharm / Python boilerplate (not part of the game)
+.idea/
+main.py
+__pycache__/
+*.pyc
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
